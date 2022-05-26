@@ -1,2 +1,0 @@
-Să se rezolve in limbaj de asamblare DLX:
-2. Se citeste un numar n natural (>1) de la tastatură (se va face testul de pozitivitate), prin intermediul modulului Input.s. Să se determine dacă numărul este sau nu perfect, afisand in fiecare din cazuri un mesaj corespunzätor. Un numar este perfect daca este egal cu suma divizorilor sai strict mai mici decat el. Exemplu: 6=1+2+3. Alte numere: 28, 496. Calcul rată de procesare cu si fără mecanism de forwarding.
